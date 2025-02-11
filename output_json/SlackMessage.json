@@ -1,0 +1,352 @@
+[
+    {
+        "id": 1,
+        "channel_id": 1,
+        "user_id": 1,
+        "text": "Hello everyone, Charles here! Glad to have a place for CFO discussions.",
+        "timestamp": "2019-03-01 10:10:00"
+    },
+    {
+        "id": 2,
+        "channel_id": 1,
+        "user_id": 2,
+        "text": "Hi Charles! Alice from Finex Solutions checking in.",
+        "timestamp": "2019-03-01 10:15:00"
+    },
+    {
+        "id": 3,
+        "channel_id": 1,
+        "user_id": 3,
+        "text": "David from Alpha Finance. Good to meet you all.",
+        "timestamp": "2019-03-01 10:20:00"
+    },
+    {
+        "id": 4,
+        "channel_id": 1,
+        "user_id": 1,
+        "text": "Has anyone used SAP for consolidation? We are considering it.",
+        "timestamp": "2019-03-01 11:00:00"
+    },
+    {
+        "id": 5,
+        "channel_id": 1,
+        "user_id": 5,
+        "text": "George here. Yes, we implemented SAP last year. Mixed results so far.",
+        "timestamp": "2019-03-01 11:05:00"
+    },
+    {
+        "id": 6,
+        "channel_id": 1,
+        "user_id": 2,
+        "text": "We use Workday for HR and financials; simpler than SAP in my opinion.",
+        "timestamp": "2019-03-01 11:30:00"
+    },
+    {
+        "id": 7,
+        "channel_id": 1,
+        "user_id": 8,
+        "text": "Peter from NorthStar. We are an Oracle shop, but always curious about alternatives.",
+        "timestamp": "2019-03-01 12:15:00"
+    },
+    {
+        "id": 8,
+        "channel_id": 1,
+        "user_id": 9,
+        "text": "Fiona here at Lionheart Consulting. We help clients evaluate these solutions if you need insights.",
+        "timestamp": "2019-03-01 12:45:00"
+    },
+    {
+        "id": 9,
+        "channel_id": 1,
+        "user_id": 10,
+        "text": "Richard from Crown. We run QuickBooks for smaller subsidiaries, SAP for the main HQ.",
+        "timestamp": "2019-03-01 13:00:00"
+    },
+    {
+        "id": 10,
+        "channel_id": 1,
+        "user_id": 6,
+        "text": "Elizabeth from Britannia. Good to meet all of you! We also have SAP\u2014 might share experiences soon.",
+        "timestamp": "2019-03-01 13:10:00"
+    },
+    {
+        "id": 11,
+        "channel_id": 1,
+        "user_id": 4,
+        "text": "Claudia from Alpha. It\u2019s nice to see multiple SAP users. Let\u2019s compare notes sometime.",
+        "timestamp": "2019-03-02 09:00:00"
+    },
+    {
+        "id": 12,
+        "channel_id": 2,
+        "user_id": 2,
+        "text": "Kicking off a new thread: Anyone tried Xero for mid-sized entities?",
+        "timestamp": "2019-04-10 14:00:00"
+    },
+    {
+        "id": 13,
+        "channel_id": 2,
+        "user_id": 7,
+        "text": "Helen from Summit. Yes, we love Xero for real-time bank feeds and multi-currency support.",
+        "timestamp": "2019-04-10 14:05:00"
+    },
+    {
+        "id": 14,
+        "channel_id": 2,
+        "user_id": 8,
+        "text": "I second that. Xero is user-friendly and cost-effective.",
+        "timestamp": "2019-04-10 14:10:00"
+    },
+    {
+        "id": 15,
+        "channel_id": 2,
+        "user_id": 1,
+        "text": "Charles: We might test Xero for a smaller division. Any big pitfalls to watch out for?",
+        "timestamp": "2019-04-10 14:15:00"
+    },
+    {
+        "id": 16,
+        "channel_id": 2,
+        "user_id": 7,
+        "text": "Just watch out for advanced consolidation features. Not as robust as SAP/Oracle.",
+        "timestamp": "2019-04-10 14:20:00"
+    },
+    {
+        "id": 17,
+        "channel_id": 2,
+        "user_id": 3,
+        "text": "We\u2019ve done a pilot with NetSuite. Higher cost, but good for complex structures.",
+        "timestamp": "2019-04-10 14:25:00"
+    },
+    {
+        "id": 18,
+        "channel_id": 2,
+        "user_id": 6,
+        "text": "Elizabeth: We\u2019re evaluating NetSuite vs Workday. Hard to decide, so any feedback is welcomed.",
+        "timestamp": "2019-04-10 15:00:00"
+    },
+    {
+        "id": 19,
+        "channel_id": 2,
+        "user_id": 4,
+        "text": "Claudia: NetSuite is strong in multi-entity but can be pricy. We chose SAP over it though.",
+        "timestamp": "2019-04-10 15:10:00"
+    },
+    {
+        "id": 20,
+        "channel_id": 2,
+        "user_id": 5,
+        "text": "George: We have an internal doc comparing these solutions. Happy to share if needed.",
+        "timestamp": "2019-04-10 15:15:00"
+    },
+    {
+        "id": 21,
+        "channel_id": 2,
+        "user_id": 9,
+        "text": "Yes please, that doc could be super helpful for new CFOs here.",
+        "timestamp": "2019-04-10 15:25:00"
+    },
+    {
+        "id": 22,
+        "channel_id": 2,
+        "user_id": 10,
+        "text": "Richard: I\u2019ll DM you our notes on Oracle Cloud vs NetSuite as well.",
+        "timestamp": "2019-04-10 15:30:00"
+    },
+    {
+        "id": 23,
+        "channel_id": 2,
+        "user_id": 2,
+        "text": "Awesome collaboration, folks.",
+        "timestamp": "2019-04-10 16:00:00"
+    },
+    {
+        "id": 24,
+        "channel_id": 2,
+        "user_id": 1,
+        "text": "Charles: Revisiting Workday. Are you all satisfied with its budgeting module?",
+        "timestamp": "2019-07-22 09:30:00"
+    },
+    {
+        "id": 25,
+        "channel_id": 2,
+        "user_id": 2,
+        "text": "Alice: We\u2019re mostly happy, though custom reporting can get tricky.",
+        "timestamp": "2019-07-22 09:35:00"
+    },
+    {
+        "id": 26,
+        "channel_id": 2,
+        "user_id": 5,
+        "text": "George: The real benefit is tight integration with HR. If that\u2019s valuable, Workday is good.",
+        "timestamp": "2019-07-22 09:40:00"
+    },
+    {
+        "id": 27,
+        "channel_id": 2,
+        "user_id": 8,
+        "text": "Peter: We are purely Oracle, but always curious to learn about Workday\u2019s expansions.",
+        "timestamp": "2019-07-22 09:50:00"
+    },
+    {
+        "id": 28,
+        "channel_id": 2,
+        "user_id": 6,
+        "text": "Elizabeth: We plan a pilot next quarter. Will share experience then!",
+        "timestamp": "2019-07-22 10:00:00"
+    },
+    {
+        "id": 29,
+        "channel_id": 3,
+        "user_id": 9,
+        "text": "Any CFO meetups in London next month? Always looking to connect.",
+        "timestamp": "2020-01-10 08:00:00"
+    },
+    {
+        "id": 30,
+        "channel_id": 3,
+        "user_id": 7,
+        "text": "Helen: We have a small CFO roundtable on Feb 5th in Birmingham, all invited!",
+        "timestamp": "2020-01-10 08:05:00"
+    },
+    {
+        "id": 31,
+        "channel_id": 3,
+        "user_id": 2,
+        "text": "Alice: Count me in! Could we get details please?",
+        "timestamp": "2020-01-10 08:10:00"
+    },
+    {
+        "id": 32,
+        "channel_id": 3,
+        "user_id": 7,
+        "text": "Helen: Sure thing, will DM you. It\u2019s a half-day event followed by networking.",
+        "timestamp": "2020-01-10 08:15:00"
+    },
+    {
+        "id": 33,
+        "channel_id": 3,
+        "user_id": 3,
+        "text": "David: We also have a quick meetup in Manchester on Feb 20th. Let me know if interested.",
+        "timestamp": "2020-01-10 08:20:00"
+    },
+    {
+        "id": 34,
+        "channel_id": 3,
+        "user_id": 1,
+        "text": "Charles: Great! I\u2019ll drive up for that. Thanks for sharing.",
+        "timestamp": "2020-01-10 08:30:00"
+    },
+    {
+        "id": 35,
+        "channel_id": 3,
+        "user_id": 4,
+        "text": "Claudia: We\u2019re hosting a CFO charity golf event in April 2021. Let me know if you want in.",
+        "timestamp": "2021-01-15 09:00:00"
+    },
+    {
+        "id": 36,
+        "channel_id": 3,
+        "user_id": 10,
+        "text": "Richard: That sounds fun. I\u2019d love more details.",
+        "timestamp": "2021-01-15 09:10:00"
+    },
+    {
+        "id": 37,
+        "channel_id": 3,
+        "user_id": 5,
+        "text": "George: Let\u2019s all go! CFOs + golf = deals on the course.",
+        "timestamp": "2021-01-15 09:15:00"
+    },
+    {
+        "id": 38,
+        "channel_id": 3,
+        "user_id": 8,
+        "text": "Peter: Sign me up too. We\u2019ll bring a few of our VPs.",
+        "timestamp": "2021-01-15 09:20:00"
+    },
+    {
+        "id": 39,
+        "channel_id": 1,
+        "user_id": 2,
+        "text": "Alice: Quick question: best practice for IFRS 16 compliance in SAP? Any tips appreciated.",
+        "timestamp": "2022-05-06 14:00:00"
+    },
+    {
+        "id": 40,
+        "channel_id": 1,
+        "user_id": 9,
+        "text": "Fiona: We consult on IFRS 16. Might have a quick reference doc. Let me check.",
+        "timestamp": "2022-05-06 14:10:00"
+    },
+    {
+        "id": 41,
+        "channel_id": 1,
+        "user_id": 2,
+        "text": "Alice: Thanks, Fiona. Perfect timing.",
+        "timestamp": "2022-05-06 14:15:00"
+    },
+    {
+        "id": 42,
+        "channel_id": 1,
+        "user_id": 4,
+        "text": "Claudia: Our compliance took 2 months to fully implement. Key is correct lease data setup.",
+        "timestamp": "2022-05-06 14:20:00"
+    },
+    {
+        "id": 43,
+        "channel_id": 1,
+        "user_id": 3,
+        "text": "David: Same experience. Let me know if you want to see our checklist.",
+        "timestamp": "2022-05-06 14:25:00"
+    },
+    {
+        "id": 44,
+        "channel_id": 2,
+        "user_id": 1,
+        "text": "Charles: Considering a switch from QuickBooks to NetSuite for a new acquisition. Thoughts?",
+        "timestamp": "2023-02-01 10:00:00"
+    },
+    {
+        "id": 45,
+        "channel_id": 2,
+        "user_id": 10,
+        "text": "Richard: We did that. NetSuite handles growth better, but the cost jump is big.",
+        "timestamp": "2023-02-01 10:15:00"
+    },
+    {
+        "id": 46,
+        "channel_id": 2,
+        "user_id": 7,
+        "text": "Helen: I prefer Xero for small acquisitions, but if they\u2019re big, NetSuite might be worth it.",
+        "timestamp": "2023-02-01 10:30:00"
+    },
+    {
+        "id": 47,
+        "channel_id": 2,
+        "user_id": 3,
+        "text": "David: We have a migration guide if needed, let me know.",
+        "timestamp": "2023-02-01 10:40:00"
+    },
+    {
+        "id": 48,
+        "channel_id": 2,
+        "user_id": 6,
+        "text": "Elizabeth: We\u2019ll be watching closely. Keep us posted on your transition.",
+        "timestamp": "2023-02-01 10:45:00"
+    },
+    {
+        "id": 49,
+        "channel_id": 2,
+        "user_id": 8,
+        "text": "Peter: Maybe do a pilot first to confirm the ROI.",
+        "timestamp": "2023-02-01 10:50:00"
+    },
+    {
+        "id": 50,
+        "channel_id": 2,
+        "user_id": 1,
+        "text": "Charles: Great tips everyone, I appreciate it!",
+        "timestamp": "2023-02-01 10:55:00"
+    }
+]

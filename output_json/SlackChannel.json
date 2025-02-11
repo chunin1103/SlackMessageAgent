@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "#cfo-lounge",
+        "created_by": 1,
+        "topic": "General lounge for CFO chats",
+        "is_private": 0,
+        "created_at": "2019-03-01 09:00:00"
+    },
+    {
+        "id": 2,
+        "name": "#finance-tech",
+        "created_by": 2,
+        "topic": "Discussions about financial software, tools, etc.",
+        "is_private": 0,
+        "created_at": "2019-03-02 10:00:00"
+    },
+    {
+        "id": 3,
+        "name": "#networking",
+        "created_by": 3,
+        "topic": "Meetups, events, professional networking",
+        "is_private": 0,
+        "created_at": "2019-03-03 11:00:00"
+    }
+]

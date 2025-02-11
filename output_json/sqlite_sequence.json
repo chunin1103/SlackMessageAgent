@@ -1,0 +1,34 @@
+[
+    {
+        "name": "Company",
+        "seq": 8
+    },
+    {
+        "name": "User",
+        "seq": 10
+    },
+    {
+        "name": "Member",
+        "seq": 10
+    },
+    {
+        "name": "SlackChannel",
+        "seq": 3
+    },
+    {
+        "name": "SlackMessage",
+        "seq": 50
+    },
+    {
+        "name": "SlackReaction",
+        "seq": 15
+    },
+    {
+        "name": "Application",
+        "seq": 5
+    },
+    {
+        "name": "Note",
+        "seq": 8
+    }
+]

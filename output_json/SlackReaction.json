@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "message_id": 1,
+        "emoji": ":wave:",
+        "user_id": 2
+    },
+    {
+        "id": 2,
+        "message_id": 4,
+        "emoji": ":thumbsup:",
+        "user_id": 2
+    },
+    {
+        "id": 3,
+        "message_id": 4,
+        "emoji": ":thumbsup:",
+        "user_id": 5
+    },
+    {
+        "id": 4,
+        "message_id": 5,
+        "emoji": ":thinking:",
+        "user_id": 1
+    },
+    {
+        "id": 5,
+        "message_id": 9,
+        "emoji": ":handshake:",
+        "user_id": 2
+    },
+    {
+        "id": 6,
+        "message_id": 12,
+        "emoji": ":eyes:",
+        "user_id": 3
+    },
+    {
+        "id": 7,
+        "message_id": 13,
+        "emoji": ":thumbsup:",
+        "user_id": 1
+    },
+    {
+        "id": 8,
+        "message_id": 20,
+        "emoji": ":file_folder:",
+        "user_id": 9
+    },
+    {
+        "id": 9,
+        "message_id": 21,
+        "emoji": ":thumbsup:",
+        "user_id": 10
+    },
+    {
+        "id": 10,
+        "message_id": 29,
+        "emoji": ":wave:",
+        "user_id": 7
+    },
+    {
+        "id": 11,
+        "message_id": 35,
+        "emoji": ":golf:",
+        "user_id": 6
+    },
+    {
+        "id": 12,
+        "message_id": 37,
+        "emoji": ":thumbsup:",
+        "user_id": 8
+    },
+    {
+        "id": 13,
+        "message_id": 39,
+        "emoji": ":question:",
+        "user_id": 3
+    },
+    {
+        "id": 14,
+        "message_id": 45,
+        "emoji": ":thumbsup:",
+        "user_id": 1
+    },
+    {
+        "id": 15,
+        "message_id": 49,
+        "emoji": ":rocket:",
+        "user_id": 6
+    }
+]

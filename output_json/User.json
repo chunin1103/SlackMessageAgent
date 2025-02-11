@@ -1,0 +1,102 @@
+[
+    {
+        "id": 1,
+        "username": "cfo_hbridge",
+        "email": "charles@highbridge.com",
+        "first_name": "Charles",
+        "last_name": "Foster",
+        "password": "hashedpw123",
+        "is_active": 1,
+        "created_at": "2019-02-01 09:00:00"
+    },
+    {
+        "id": 2,
+        "username": "cfo_finex",
+        "email": "alice@finex.co.uk",
+        "first_name": "Alice",
+        "last_name": "Harper",
+        "password": "hashedpw234",
+        "is_active": 1,
+        "created_at": "2019-02-02 09:30:00"
+    },
+    {
+        "id": 3,
+        "username": "cfo_alpha1",
+        "email": "david@alphafinance.co.uk",
+        "first_name": "David",
+        "last_name": "Edwards",
+        "password": "hashedpw345",
+        "is_active": 1,
+        "created_at": "2019-02-03 10:00:00"
+    },
+    {
+        "id": 4,
+        "username": "cfo_alpha2",
+        "email": "claudia@alphafinance.co.uk",
+        "first_name": "Claudia",
+        "last_name": "Green",
+        "password": "hashedpw456",
+        "is_active": 1,
+        "created_at": "2019-02-04 08:00:00"
+    },
+    {
+        "id": 5,
+        "username": "cfo_britannia1",
+        "email": "george@britannia.com",
+        "first_name": "George",
+        "last_name": "Williams",
+        "password": "hashedpw567",
+        "is_active": 1,
+        "created_at": "2019-02-05 13:00:00"
+    },
+    {
+        "id": 6,
+        "username": "cfo_britannia2",
+        "email": "elizabeth@britannia.com",
+        "first_name": "Elizabeth",
+        "last_name": "Adams",
+        "password": "hashedpw678",
+        "is_active": 1,
+        "created_at": "2019-02-06 15:20:00"
+    },
+    {
+        "id": 7,
+        "username": "cfo_summit",
+        "email": "helen@summitcapital.co.uk",
+        "first_name": "Helen",
+        "last_name": "Moore",
+        "password": "hashedpw789",
+        "is_active": 1,
+        "created_at": "2019-02-07 16:45:00"
+    },
+    {
+        "id": 8,
+        "username": "cfo_northstar",
+        "email": "peter@northstarbank.co.uk",
+        "first_name": "Peter",
+        "last_name": "Owens",
+        "password": "hashedpw890",
+        "is_active": 1,
+        "created_at": "2019-02-08 11:10:00"
+    },
+    {
+        "id": 9,
+        "username": "cfo_lionheart",
+        "email": "fiona@lionheartconsulting.co.uk",
+        "first_name": "Fiona",
+        "last_name": "Baker",
+        "password": "hashedpw901",
+        "is_active": 1,
+        "created_at": "2019-02-09 17:55:00"
+    },
+    {
+        "id": 10,
+        "username": "cfo_crown",
+        "email": "richard@crownenterprises.co.uk",
+        "first_name": "Richard",
+        "last_name": "Clark",
+        "password": "hashedpw012",
+        "is_active": 1,
+        "created_at": "2019-02-10 08:20:00"
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "content": "SAP performance analysis: we need more training for staff, but ROI is promising.",
+        "author_id": 1,
+        "timestamp": "2019-08-15 10:00:00"
+    },
+    {
+        "id": 2,
+        "content": "Workday has simplified payroll processes across multiple branches.",
+        "author_id": 2,
+        "timestamp": "2019-09-20 11:15:00"
+    },
+    {
+        "id": 3,
+        "content": "NetSuite pilot results: possible cost overrun if not carefully managed.",
+        "author_id": 3,
+        "timestamp": "2020-02-10 14:30:00"
+    },
+    {
+        "id": 4,
+        "content": "Xero case study: good for SMEs, lacks advanced consolidation.",
+        "author_id": 4,
+        "timestamp": "2020-05-01 09:45:00"
+    },
+    {
+        "id": 5,
+        "content": "QuickBooks is fine for small acquisitions but watch for limited multi-entity features.",
+        "author_id": 5,
+        "timestamp": "2021-01-05 13:00:00"
+    },
+    {
+        "id": 6,
+        "content": "SAP IFRS 16 compliance required thorough data cleansing, took two months for us.",
+        "author_id": 4,
+        "timestamp": "2022-06-10 15:00:00"
+    },
+    {
+        "id": 7,
+        "content": "Workday budgeting module feedback: custom reporting can be time-consuming.",
+        "author_id": 2,
+        "timestamp": "2022-10-05 10:15:00"
+    },
+    {
+        "id": 8,
+        "content": "NetSuite vs Oracle Cloud: summary doc with pros/cons. Available on request.",
+        "author_id": 3,
+        "timestamp": "2023-01-20 16:20:00"
+    }
+]
