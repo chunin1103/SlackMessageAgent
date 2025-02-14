@@ -7,7 +7,6 @@ load_dotenv()
 
 MONGO_URI = os.getenv("MONGO_URI")
 HF_TOKEN = os.getenv("HF_TOKEN")
-
 # MongoDB client setup
 client = pymongo.MongoClient(MONGO_URI)
 
@@ -31,13 +30,13 @@ def generate_embedding(text: str) -> list[float]:
 
   return response.json()
 
-## Generate Embeddings for all the documents in the collection
+# # Generate Embeddings for all the documents in the collection
 # for doc in collection.find({'text':{"$exists": True}}).limit(50):
 #   doc['text_embedding_hf'] = generate_embedding(doc['text'])
 #   collection.replace_one({'_id': doc['_id']}, doc)
 
 
-query = "Which consolidation tools are most recommended for financial reporting?"
+query = "Recommend a meetup for CFO in London, and please tell me what activities there will be in the CFO meetup?"
 print(f"Query: {query}\n")
 
 results = collection.aggregate([
