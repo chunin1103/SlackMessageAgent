@@ -36,7 +36,7 @@ def generate_embedding(text: str) -> list[float]:
 #   collection.replace_one({'_id': doc['_id']}, doc)
 
 
-query = "Recommend a meetup for CFO in London, and please tell me what activities there will be in the CFO meetup?"
+query = "Any recommendation on financial consolitation software?"
 print(f"Query: {query}\n")
 
 results = collection.aggregate([
